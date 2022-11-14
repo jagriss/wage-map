@@ -4,8 +4,8 @@
 
 
 ## Technology Stack
-*Pandas
-*Geopandas
-*Python
-*Folium
-*NumPY
+* Pandas
+* Geopandas
+* Python
+* Folium
+* NumPY
